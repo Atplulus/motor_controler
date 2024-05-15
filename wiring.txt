@@ -1,0 +1,7 @@
+Warna  PIN No. JETSON No Drive No. 
+Hijau  40      D21       IN3 
+Putih  38      D20       IN4 
+UNGU   32      D12       ENA 
+Kuning 37      D26       IN2 
+Orange 35      D19       IN1 
+MERAh  33      D13       ENB 
